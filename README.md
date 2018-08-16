@@ -1,2 +1,3 @@
 # hello-world
-hello-world's decreiption
+hello-world's description
+One more string!
