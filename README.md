@@ -1,2 +1,2 @@
 # hello-world
-hello-world's decreiption
+hello-world's decription
